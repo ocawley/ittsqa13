@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.it-tallaght.ie/index.cfm" />
+<title>x00112293-Testcase2</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">x00112293-Testcase2</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/index.cfm</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Full Time Courses</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Full-time courses at the Institute of Technology Tallaght</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=wrapInner</td>
+	<td>ITT Dublin: Institute of Technology Tallaght Bringing Knowledge and Know-how to Life NewsLocationStaff SearchStaff/Student LoginEduroamSearch Site <br /> <br /> <br /> HomeFull Time CoursesPart Time CoursesResearch &amp; InnovationStudent LifeAbout UsContact Us <br /> <br /> Find a Course Full Time Part Time <br /> Full-time Courses At ITT Dublin we have a strong belief that there must be a partnership between students and staff. We believe in a partnership of academic care.<br /> <br /> <br /> <br /> <br /> <br /> In This Section Accountancy &amp; Professional StudiesComputingCreative Digital MediaCulinary ArtsEngineeringEuropean StudiesInternational Hospitality &amp; TourismManagementMarketing &amp; AdvertisingScienceSocial Care PracticeDownload ProspectusMature Students <br /> International Students ITT Dublin Library Service: Your Partner in Learning <br /> Home » Full Time Courses <br /><br /> <br /> <br /> Full Time Courses Getting you there!<br /> We believe that by giving you that bit of extra help and support during the first year we can set you on your way.<br /> At ITT Dublin we support you through your programme. We don’t just deliver programmes and leave you to it. We encourage you. We challenge you. We help you to get your project or assignment into shape. We get you started on the right lines and we keep in touch. Our lecturers are first class with a wide range of experience including professional, research, industrial and business.<br /> We provide study clinics to help you understand academic issues that might be complicated or holding you back. Students can sometimes run into difficulties during the first year. We believe that by giving you that bit of extra help and support during the first year we can set you on your way. It is very important that you experience success with study and assignments at an early stage. It is in nobody’s interest that you feel down or oppressed about the burden of study. What is studied in first year is continued throughout your programme. Once you get the hang of things and know the study scene you won’t mind asking for help.<br /> <br /> <br /> <br /> Site Links HomeFull Time CoursesPart Time CoursesResearch &amp; InnovationStudent LifeAbout UsContact Us <br /> Shortcuts NewsLocationStaff SearchStaff/Student LoginEduroamSearch Site <br /> Other Links DisclaimerFOISitemapCookie PolicyData ProtectionOffice of the OmbudsmanOrganisational StructureStudent Data Collection Notice <br /> Contact Us ITT Dublin Institute of Technology Tallaght,<br /> Tallaght,<br /> Dublin 24, Ireland.<br /> Tel: +353 1 404 2000<br /> Fax: +353 1 404 2700<br /> Email: info@ittdublin.ie<br /> <br /> <br /> <br /> ©2014 ITT Dublin: Institute of Technology Tallaght • Built by Digital Crew</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Computing</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>Department of Computing</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=wrapInner</td>
+	<td>exact:ITT Dublin: Institute of Technology Tallaght Bringing Knowledge and Know-how to Life NewsLocationStaff SearchStaff/Student LoginEduroamSearch Site <br /> <br /> <br /> HomeFull Time CoursesPart Time CoursesResearch &amp; InnovationStudent LifeAbout UsContact Us <br /> <br /> Find a Course Full Time Part Time <br /> Computing Take a decision to become an expert in a field which is re-shaping our world and how we experience it.<br /> <br /> <br /> <br /> <br /> <br /> In This Section Accountancy &amp; Professional StudiesComputingCreative Digital MediaCulinary ArtsEngineeringEuropean StudiesInternational Hospitality &amp; TourismManagementMarketing &amp; AdvertisingScienceSocial Care PracticeDownload ProspectusMature Students <br /> Other Departments <br /> Home » Full Time Courses » Computing <br /><br /> <br /> <br /> Computing Computing is the future and the future is now! Computing professionals are a critical element in the modern business world and the demand for computing graduates is strong and projected to remain strong into the future.<br /> Sending txt messages. Downloading music. Making web pages. Booking tickets. Online chat. Health scans. Computer games. Banking. E-mailing a photos. computer systems don’t just sit on a desktop with a keyboard, screen and mouse attached – they are everywhere. It’s not just the internet, behind every one of the screens one uses there is a computer system which retrieves information, analyses what is wanted, verifies identity and returns with the requested result. <br /> Select here for our Partners &amp; Collaborators<br /> Choose computing at ITT Dublin and within four years you can be a fully qualified professional with a B. Sc. Honours in Computing. Our suite of programmes has a common first year with two main elective streams which can be selected at the end of year 1. This allows you to develop a thorough understanding of computing before selecting whether you wish to specialise in software development or information technology management.<br /> ***Check out our Graduate Conversion Course***<br /> Contact: Barry Feeney MSc PhD ( Head of Department ) + 353 1 4042402 / barry.feeney@ittdublin.ie<br /> Department phone extensions: + 353 1 404 2436 / 2400 / 2406 - Fax: + 353 1 4042404<br /> <br /> <br /> <br /> <br /> Site Links HomeFull Time CoursesPart Time CoursesResearch &amp; InnovationStudent LifeAbout UsContact Us <br /> Shortcuts NewsLocationStaff SearchStaff/Student LoginEduroamSearch Site <br /> Other Links DisclaimerFOISitemapCookie PolicyData ProtectionOffice of the OmbudsmanOrganisational StructureStudent Data Collection Notice <br /> Contact Us ITT Dublin Institute of Technology Tallaght,<br /> Tallaght,<br /> Dublin 24, Ireland.<br /> Tel: +353 1 404 2000<br /> Fax: +353 1 404 2700<br /> Email: info@ittdublin.ie<br /> <br /> <br /> <br /> ©2014 ITT Dublin: Institute of Technology Tallaght • Built by Digital Crew</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[3]/p[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>find a course facility</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.courseTitle</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertTitle</td>
+	<td>course information</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>id=wrapInner</td>
+	<td>ITT Dublin: Institute of Technology Tallaght Bringing Knowledge and Know-how to Life NewsLocationStaff SearchStaff/Student LoginEduroamSearch Site <br /> <br /> <br /> HomeFull Time CoursesPart Time CoursesResearch &amp; InnovationStudent LifeAbout UsContact Us <br /> <br /> Find a Course Full Time Part Time <br /> Courses Information<br /> <br /> <br /> <br /> <br /> <br /> In This Section Accountancy &amp; Professional StudiesComputingCreative Digital MediaCulinary ArtsEngineeringEuropean StudiesInternational Hospitality &amp; TourismManagementMarketing &amp; AdvertisingScienceSocial Care PracticeDownload ProspectusMature Students <br /> Mature Students Other Departments International Students <br /> Home » Full Time Courses » Bachelor of Science (Honours) in Computing <br /><br /> <br /> <br /> Bachelor of Science (Honours) in Computing Course Code TA_KCOMP_B (1 year add on)<br /> Type of Qualification: Honours Bachelor Degree<br /> Field of Study Computer Science,Computing<br /> Type of Study: Full Time<br /> Application Closing Date: Not Specified<br /> <br /> <br /><br /> <br /> Course Content Semester 7 Enterprise Applications Development 1<br /> Social Media Analysis and Information Integration<br /> Interactive Media Design<br /> Enterprise Database Technologies<br /> Project<br /> Information Management<br /> Semester 8 Enterprise Applications Development 2 - Draft<br /> Interactive Media Development<br /> Enterprise Applications Architecture<br /> Project <br /> Computational Theory<br /> <br /><br /> <br /> <br /> <br /> <br /> Site Links HomeFull Time CoursesPart Time CoursesResearch &amp; InnovationStudent LifeAbout UsContact Us <br /> Shortcuts NewsLocationStaff SearchStaff/Student LoginEduroamSearch Site <br /> Other Links DisclaimerFOISitemapCookie PolicyData ProtectionOffice of the OmbudsmanOrganisational StructureStudent Data Collection Notice <br /> Contact Us ITT Dublin Institute of Technology Tallaght,<br /> Tallaght,<br /> Dublin 24, Ireland.<br /> Tel: +353 1 404 2000<br /> Fax: +353 1 404 2700<br /> Email: info@ittdublin.ie<br /> <br /> <br /> <br /> ©2014 ITT Dublin: Institute of Technology Tallaght • Built by Digital Crew</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
